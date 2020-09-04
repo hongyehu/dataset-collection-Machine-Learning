@@ -11,6 +11,12 @@ Here I listed some widely used machine learning datasets with links
 8. aflw2k3d: [link](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)
 
 ## Text dataset
+1. SNLI: The Stanford Natural Language Inference (SNLI). [link](https://nlp.stanford.edu/projects/snli/)
+2. Wiki40B: Wiki-40B: Multilingual Language Model Dataset. [link](https://research.google/pubs/pub49029/)
+3. Yelp Comments: [link](https://www.kaggle.com/yelp-dataset/yelp-dataset)
+4. e-SNLI: [link](https://github.com/OanaMariaCamburu/e-SNLI)
+5. LM1B: [link](http://www.statmt.org/lm-benchmark/)
+6. C4: [link](https://www.tensorflow.org/datasets/catalog/c4)
 ## Video dataset
 
 
